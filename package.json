@@ -1,0 +1,29 @@
+{
+  "name": "mjt",
+  "version": "1.0.0",
+  "description": "testing node ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilsku/mjt.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "vilja aspegren",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vilsku/mjt/issues"
+  },
+  "homepage": "https://github.com/vilsku/mjt#readme"
+}
